@@ -1,0 +1,11 @@
+[user]
+	name = Esme Cush
+	email = esmecush@gmail.com
+	name = “Esme
+	name = “Esme
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
+[core]
+	editor = vim
